@@ -1,1 +1,2 @@
-# VRshooter_SRA
+# VR_SRA
+Practica VR shooter
